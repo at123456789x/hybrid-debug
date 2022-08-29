@@ -1,1 +1,2 @@
-Actually, I'd like to apply the ice flow model to mountain glaciers, and there're different conditions and complex flow directors. So as far as I can speculate, the error is somehow related to the study area differences.
+Actually, I'd like to apply the ice flow model to mountain glaciers, and there're different conditions and complex flow directors.
+So as far as I can speculate, the error is somehow related to the study area differences.
